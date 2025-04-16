@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Konstantinos Dimitriou",
   "license": "MIT",
-  "description": "Wrapper layer for Http requests in Angular",
+  "description": "Wrapper service for Http requests in Angular",
   "peerDependencies": {
     "@angular/common": "^15.0.0",
     "@angular/core": "^15.0.0",
