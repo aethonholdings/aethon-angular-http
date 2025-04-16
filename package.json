@@ -1,0 +1,15 @@
+{
+  "name": "aethon-angular-http",
+  "version": "0.0.1",
+  "author": "Konstantinos Dimitriou",
+  "license": "MIT",
+  "description": "Wrapper layer for Http requests in Angular",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0",
+    "aethon-api-types": "^0.0.4"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
